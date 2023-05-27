@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andre3004.github.io/static/css/main.df576f62.css",
+    "main.js": "/andre3004.github.io/static/js/main.30782f81.js",
+    "static/js/787.2d8d76cb.chunk.js": "/andre3004.github.io/static/js/787.2d8d76cb.chunk.js",
+    "index.html": "/andre3004.github.io/index.html",
+    "main.df576f62.css.map": "/andre3004.github.io/static/css/main.df576f62.css.map",
+    "main.30782f81.js.map": "/andre3004.github.io/static/js/main.30782f81.js.map",
+    "787.2d8d76cb.chunk.js.map": "/andre3004.github.io/static/js/787.2d8d76cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df576f62.css",
+    "static/js/main.30782f81.js"
+  ]
+}
