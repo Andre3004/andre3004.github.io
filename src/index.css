@@ -10298,13 +10298,13 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
   background-color: #434E5E;
 }
 
-.resume-wrapper {
-  /* padding-top: 30px; */
-  /* padding-bottom: 60px; */
+.resume-wrapper-pdf {
+  padding-top: 30px;
+  padding-bottom: 60px;
 }
 
-.resume-wrapper-inner {
-  /* max-width: 1000px; */
+.resume-wrapper-inner-pdf {
+  max-width: 1000px;
 }
 
 .resume-header {
