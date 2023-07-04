@@ -7,7 +7,9 @@ export const RecentProjects = () => {
 
           <ul>
             <li>
-              Refactor all front-end from scratch and optimize some parts of backend using angular 12 and Java 11.
+              Created a front-end of new application standalone using react, immer, zod, zustand, styled-components,
+              tailwind, i18n and other recenty libraries
+              {/* Refactor all front-end from scratch and optimize some parts of backend using angular 12 and Java 11. */}
             </li>
             <li>
               Built a aws architecture using (CloudFront, Route53, Certificate Manager, S3, EC2, ECS with ALB, ECR,
@@ -15,8 +17,8 @@ export const RecentProjects = () => {
             </li>
             <li>Created a pipeline using actions from github.</li>
             <li>Built a architecture to using AWS S3 instead file system.</li>
-            <li>Created a java component using reflection to build a report Jasper report.</li>
-            <li>Implemented a architecture of store in angular using ngrx to solve a issue.</li>
+            {/* <li>Created a java component using reflection to build a report Jasper report.</li> */}
+            <li>Implemented a architecture of store using zustand instead redux</li>
             <li>Integration create/delete/update/list with salesforce.</li>
             <li>Create a strucuture to solve a issue using SQS.</li>
           </ul>

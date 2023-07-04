@@ -11,7 +11,7 @@ export const WorkExperience = () => {
                 acting in more than 200 units throughout Brazil and for the Edwin group, 
                 company located in London focused on the Education area .`,
       activities: [
-        'Development of new features using Java, Reactjs, Nodejs, Angular 12, JSF, Java EE, Spring, WildFly / Jboss, AWS.',
+        'Development of new features using Reactjs, Nodejs, Java, Angular 12, JSF, Java EE, Spring, WildFly / Jboss, AWS.',
         'Integration between the systems that make up the group, and external integration, such as salesforce and the like.',
         'Troubleshooting',
         'Create UI from scratch',
