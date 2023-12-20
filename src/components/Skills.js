@@ -2,42 +2,9 @@ import { useState } from 'react';
 
 export const Skills = () => {
   const [skills] = useState({
-    Frontend: [
-      'Angular 12',
-      'Typescript',
-      'JavaScript/CSS/HTML',
-      'Material Design',
-      'Fluent Design',
-      'Ant Design',
-      'React.js',
-      'AngularJS',
-      'PIXI.js',
-      'Flutter',
-    ],
-    Backend: [
-      'Java',
-      'Nodejs',
-      'Spring',
-      '.Net core and framework',
-      'Hibernate',
-      'SQL',
-      'Junit',
-      'Oracle',
-      'PostgresSql',
-      'SQL server',
-    ],
-    Devops: [
-      'Git',
-      'WildFly',
-      'AWS',
-      'Docker',
-      'Kubernetes',
-      'RabbitMq',
-      'Jira',
-      'GitLab',
-      'BitBucket',
-      'CI/CD Processes',
-    ],
+    Frontend: ['React.js', 'Typescript', 'Next.js', 'JavaScript/CSS/HTML', 'Flutter', 'Angular'],
+    Backend: ['Nodejs', 'Strapi', 'Java', 'Spring', 'Hibernate', 'SQL', 'Junit', 'Oracle', 'PostgresSql', 'Serverless'],
+    Devops: ['Git', 'AWS', 'Docker', 'Jira', 'GitLab', 'BitBucket', 'CI/CD Processes'],
   });
   return (
     <section className="resume-section skills-section mb-5">

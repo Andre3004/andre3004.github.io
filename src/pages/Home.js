@@ -1,7 +1,7 @@
 // import './App.css';
 import { Header } from '../components/Header';
 import { ExperienceSummary } from '../components/ExperienceSummary';
-import { RecentProjects } from '../components/RecentProjects';
+// import { RecentProjects } from '../components/RecentProjects';
 import { WorkExperience } from '../components/WorkExperience';
 import { Skills } from '../components/Skills';
 import { Education } from '../components/Education';
@@ -21,7 +21,7 @@ export const Home = () => {
           <Header />
           <div className="resume-body p-5">
             <ExperienceSummary />
-            <RecentProjects />
+            {/* <RecentProjects /> */}
             <div className="row">
               <WorkExperience />
               <div className="col-lg-3">

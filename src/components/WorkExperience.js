@@ -5,13 +5,30 @@ export const WorkExperience = () => {
     {
       title: 'Software Engineer - Senior',
       company: 'Simple Syntax (Remote)',
-      duration: 'October 2020 to Present',
-      location: 'São Paulo - Brazil / London - UK',
-      summary: `Development and integrations in several projects of the saga group 
-                acting in more than 200 units throughout Brazil and for the Edwin group, 
-                company located in London focused on the Education area .`,
+      duration: 'Dezember 2022 to Present',
+      location: 'London - UK',
+      summary: `Development, gathering requirements, developing architecture, building back and front-end for the Edwin group, 
+                company located in London focused on the Education area.`,
       activities: [
-        'Development of new features using Reactjs, Nodejs, Java, Angular 12, JSF, Java EE, Spring, WildFly / Jboss, AWS.',
+        'Developing new features using Reactjs, Nodejs, Nextjs, Tailwind, AWS.',
+        'Creating back-end CMS using strapi and nodejs.',
+        'Creating integrations with third party services like salesforce.',
+        'Creating projects using serverless architecture.',
+        'Developing back-end and front-end',
+        'Creating integration tests and unit tests',
+        'Gathering requirements from stakeholders.',
+      ],
+      tecnologies: ['React', 'Typescript', 'Nodejs', 'GitHub', 'Strapi', 'AWS', 'Serverless', 'Strapi', 'Nextjs'],
+    },
+    {
+      title: 'Software Engineer - Senior',
+      company: 'Simple Syntax (Remote)',
+      duration: 'October 2020 to Dezember 2022',
+      location: 'São Paulo - Brazil',
+      summary: `Development and integrations in several projects of the saga group 
+                acting in more than 200 units throughout Brazil.`,
+      activities: [
+        'Development of new features using Java, Angular 12, JSF, Java EE, Spring, WildFly / Jboss, AWS.',
         'Integration between the systems that make up the group, and external integration, such as salesforce and the like.',
         'Troubleshooting',
         'Create UI from scratch',
@@ -21,7 +38,6 @@ export const WorkExperience = () => {
       ],
       tecnologies: [
         'Angular',
-        'React',
         'Typescript',
         'Git',
         'Jira',
@@ -29,7 +45,6 @@ export const WorkExperience = () => {
         'BitBucket',
         'CI/CD Processes',
         'Java',
-        'Nodejs',
         'Spring',
         'WildFly',
         'AWS',

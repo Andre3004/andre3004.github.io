@@ -20,7 +20,7 @@ export const ExperienceSummary = () => {
             'always looking for update myself in the new technologies that the market asks for, while reviewing the ' +
             'basis and good practices of architecture and design patterns. I incorporate the principles of SOLID ' +
             'and clean code into my implementations, implementing code that not only works, but is maintainable and ' +
-            'scalable. Currently my studies are focused on architecture, design patterns and English.'}
+            'scalable.'}
         </p>
       </div>
     </section>
