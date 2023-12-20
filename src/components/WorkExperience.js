@@ -99,7 +99,7 @@ export const WorkExperience = () => {
         'CI/CD Processes',
         'Docker',
         'PIXI.js',
-        'RabbitMq',
+        'RabbitMQ',
         'SQL server',
       ],
     },
