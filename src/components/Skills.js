@@ -3,7 +3,7 @@ import { useState } from 'react';
 export const Skills = () => {
   const [skills] = useState({
     Frontend: ['React.js', 'Typescript', 'Next.js', 'JavaScript/CSS/HTML', 'Flutter', 'Angular'],
-    Backend: ['Nodejs', 'Strapi', 'Java', 'Spring', 'Hibernate', 'SQL', 'Junit', 'Oracle', 'PostgresSql', 'Serverless'],
+    Backend: ['Nodejs', 'REST', "Graphql", 'Strapi', 'Java', 'Spring', 'Hibernate', 'SQL', 'Junit', 'Oracle', 'PostgresSql', 'Serverless'],
     Devops: ['Git', 'AWS', 'Docker', 'Jira', 'GitLab', 'BitBucket', 'CI/CD Processes'],
   });
   return (

@@ -18,7 +18,7 @@ export const WorkExperience = () => {
         'Creating integration tests and unit tests',
         'Gathering requirements from stakeholders.',
       ],
-      tecnologies: ['React', 'Typescript', 'Nodejs', 'GitHub', 'Strapi', 'AWS', 'Serverless', 'Strapi', 'Nextjs'],
+      tecnologies: ['React', 'Typescript', 'REST', 'Graphql', 'Nodejs', 'GitHub', 'Strapi', 'AWS', 'Serverless', 'Strapi', 'Nextjs'],
     },
     {
       title: 'Software Engineer - Senior',
